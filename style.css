@@ -77,6 +77,10 @@ body{
     background-color: var(--bgColor);
     color: var(--accentColor);
 }
+.link2:hover{
+    background-color: var(--bgColor);
+    color: var(--moreColor);
+}
 .animate__animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
