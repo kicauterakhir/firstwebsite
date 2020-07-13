@@ -41,7 +41,7 @@ body{
 }
 #userHeader{
     color: #a89c86;
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: 600;
     line-height: 1.25;
     display: block;
@@ -91,6 +91,23 @@ body{
 .link2:hover{
     background-color: var(--bgColor);
     color: var(--moreColor);
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa-youtube {
+  background: #a89c86;
+  color: white;
+}
+
+.fa-instagram {
+  background: #a89c86;
+  color: white;
 }
 .animate__animated {
   -webkit-animation-duration: 1s;
