@@ -97,18 +97,18 @@ body{
 }
 
 #social #container ul {
-  float: left;
+  float: center;
 }
 
 #social #container ul li {
-  float: left;
-  padding-left: 10px;
+  float: center;
+  padding-center: 10px;
   list-style-type: none;
 }
 .fa {
   padding: 20px;
-  font-size: 40px;
-  width: 40px;
+  font-size: 30px;
+  width: 30px;
   text-align: center;
   text-decoration: none;
   margin: auto;
