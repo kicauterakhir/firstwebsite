@@ -92,6 +92,19 @@ body{
     background-color: var(--bgColor);
     color: var(--moreColor);
 }
+#social #container {
+  text-align: center;
+}
+
+#social #container ul {
+  float: left;
+}
+
+#social #container ul li {
+  float: left;
+  padding-left: 10px;
+  list-style-type: none;
+}
 .fa {
   padding: 20px;
   font-size: 40px;
