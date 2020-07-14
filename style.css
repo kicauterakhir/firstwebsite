@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
     --bgColor: white;
-    --accentColor: #89b2ff;
-    --moreColor: #4a63b8;
+    --accentColor: #37b4ff;
+    --moreColor: #0069a8;
     --font: 'Karla', sans-serif;
     --animate-duration: 1s;
     --animate-delay: 1s;
