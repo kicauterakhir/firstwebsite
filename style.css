@@ -2,7 +2,7 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
-    --bgColor: white;
+    --bgColor: #e6f3fb;
     --accentColor: #37b4ff;
     --moreColor: #0069a8;
     --font: 'Karla', sans-serif;
@@ -12,11 +12,6 @@
 }
 
 body{
-    background-image: url("background.jpg");
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
     background-color: var(--bgColor);
 }
 
