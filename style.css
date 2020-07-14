@@ -103,8 +103,8 @@ body{
 .circle {
     background: var(--accentColor);
     border-radius: 52px;
-    width: 75px;
-    height: 75px;
+    width: 40px;
+    height: 40px;
     text-align: center;
     font-size: 50px;
     color: white;
