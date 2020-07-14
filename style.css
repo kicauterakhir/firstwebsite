@@ -101,7 +101,7 @@ body{
 }
 
 #social #container ul li {
-  float: center;
+  float: left;
   padding-left: 10px;
   list-style-type: none;
 }
