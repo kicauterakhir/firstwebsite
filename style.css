@@ -119,12 +119,10 @@ body{
     box-shadow: 2px 2px 2px rgba(50, 50, 50, 0.77);
 }
 .jumbotron {
-  background-image: url('https://stmed.net/sites/default/files/sky-wallpapers-28043-8362242.jpg');
+  background-image: url('https://imgur.com/JAtOoYv.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  width: 100vw;
 }
 .animate__animated {
   -webkit-animation-duration: 1s;
