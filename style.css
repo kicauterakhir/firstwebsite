@@ -118,6 +118,12 @@ body{
     -moz-box-shadow: 2px 2px 2px rgba(50, 50, 50, 0.77);
     box-shadow: 2px 2px 2px rgba(50, 50, 50, 0.77);
 }
+.jumbotron {
+  background-image: url('https://imgur.com/JAtOoYv.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 .animate__animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
