@@ -122,7 +122,8 @@ body{
   background-image: url('https://imgur.com/xc5GgPs.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: right;
+  height: 420px;
 }
 .animate__animated {
   -webkit-animation-duration: 1s;
