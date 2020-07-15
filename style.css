@@ -123,7 +123,6 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: auto;
 }
 .animate__animated {
   -webkit-animation-duration: 1s;
