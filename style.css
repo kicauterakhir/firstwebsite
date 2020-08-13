@@ -1,0 +1,29 @@
+header.theme {
+  padding-top: 6rem;
+  padding-bottom: calc(6rem - 1.5rem);
+  background: linear-gradient(90deg, rgba(171,244,185,0.6) 35%, rgba(0,212,255,0.6) 100%), url("theme-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+  min-width: 360px;
+  max-height: 75px;
+}
+.profile-picture {
+    background: black url("profpict.jpg");
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 0.1rem;
+}
+.align-items-center {
+    align-items: center;
+  }
+.green-background {
+    padding: 20rem 0;
+    background-color: #abf4b9;
+    min-width: 360px;
+}
