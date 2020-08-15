@@ -12,12 +12,26 @@ header.theme {
 .profile-picture {
     background: black url("profpict.jpg");
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
     position: relative;
-    top: 0.1rem;
+    top: 3rem;
+    border-width: 1000px;
+    border-color: white;
+}
+.picture.border {
+  background: white;
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 3rem;
+  border-width: 1000px;
+  border-color: white;
 }
 .align-items-center {
     align-items: center;
@@ -26,4 +40,9 @@ header.theme {
     padding: 20rem 0;
     background-color: #abf4b9;
     min-width: 360px;
+    text-align: center justify;
+}
+.myname {
+  justify-content: center;
+  
 }
